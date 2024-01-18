@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Justin-swinney
 - 👀 I’m interested in finding my role in the software development world! 
-- 🌱 I’m currently learning Software Test and Automation, Software Security, Applied Linear Algebra, Physics: Mechanics.
-- 📫 How to reach me -  Email: Justinswinney1@icloud.com, LinkedIn: www.linkedin.com/in/justin-swinney1
+- 🌱 I’m currently learning Full Stack Development I, Secured Coding II, Mobile Architect & Programming, Emerging System Architecture & Technology.
+- 📫 How to reach me - Email: Justinswinney1@icloud.com, LinkedIn: www.linkedin.com/in/justin-swinney1
 
 
 
